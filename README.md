@@ -23,7 +23,7 @@ Script jpm and pushkontak, kamu juga bisa mendownload di channel agaoficial/Cero
 
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/autoresbot/script-jpm.git
+   git clone https://github.com/Agastore/jpm.git
    ```
 2. Masuk ke direktori proyek:
    ```bash
